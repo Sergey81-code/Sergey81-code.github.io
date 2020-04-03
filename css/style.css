@@ -1,0 +1,98 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.t-body a{
+	font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5{
+
+
+	font-family: 'Nunito', sans-serif;
+}
+
+
+.t-title {
+   font-family: 'Nunito', sans-serif;
+  }
+
+  .t-descr {
+   font-family: 'Nunito', sans-serif;
+   }
+
+   .t-name {
+ font-family: 'Nunito', sans-serif;
+}
+
+.t-text {
+   font-family: 'Nunito', sans-serif;
+}
+
+.t-prefix_1 {
+
+    padding-left: 100px;
+    text-align: center;
+
+}
+
+.t-prefix__3 {
+    padding-left: 52px;
+    border: solid 
+    #dc3f3f 4px;
+    border-radius: 35px;
+    padding-top: 15px;
+    padding-bottom: 17px;
+    margin-left: 100px;
+}
+
+#allrecords ul {
+    padding-left: 20px;
+    list-style: none;
+}
+
+.hr{
+    width: 450px;
+}
+
+.img__map{
+	position: relative;
+
+}
+
+.map{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+.part{
+	opacity: 0;
+}
+
+.part:hover{
+	cursor: pointer;
+	
+	
+}
+
+.desc1 {
+    display: none;
+    position: absolute;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 173px;
+    height: 227px;
+    left: 1258px;
+    bottom: calc(50% - 200px);
+    font-family: sans-serif;
+    bottom: 401px;
+    background: 
+#fff;
+border-radius: 19px;
+border: 1px solid
+    #000;
+}
