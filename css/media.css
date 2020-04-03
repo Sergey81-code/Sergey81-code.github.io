@@ -172,21 +172,14 @@
 
  }
 
+@media screen and (min-width:560px) and (max-width:644px) {
 
 
+#village_map{
+	width: 574px !important;
+}
 
-
-
-
-
-
-
-
-
-
-
-
- 
+ }
 
 
  @media screen and (min-width:400px) and (max-width:644px) {
@@ -217,9 +210,7 @@
     padding-right: 53px !important;
 }
 
-.t-prefix_1 {
-    padding-right: 52px !important;
-}
+
 /* 		.t-descr{
     text-align: left;
     font-family: 'Nunito', sans-serif;
@@ -237,7 +228,7 @@
     padding-left: 72px !important;
 }
 .t-prefix_1 {
-    padding-left: 6px !important;
+    padding-left: 33px !important;
     text-align: center !important;
 }
 
@@ -282,11 +273,52 @@
 	margin-left: 109px !important;
 }
 
+
+
+ }
+
+
+@media screen and (min-width:528px) and (max-width:560px) {
+
+
 #village_map{
-	width: 410px !important;
+	width: 542px !important;
 }
 
  }
+
+ @media screen and (min-width:499px) and (max-width:527px) {
+
+
+#village_map{
+	width: 500px !important;
+	margin-left: 10px;
+}
+
+ }
+
+  @media screen and (min-width:450px) and (max-width:499px) {
+
+
+#village_map{
+	width: 443px !important;
+	margin-left: 20px;
+
+ }
+
+}
+
+ @media screen and (min-width:400px) and (max-width:449px) {
+
+
+#village_map {
+
+    width: 388px !important;
+    margin-left: 23px;
+
+}
+
+}
 
 
 
@@ -318,9 +350,7 @@
     padding-right: 53px !important;
 }
 
-.t-prefix_1 {
-    padding-right: 52px !important;
-}
+
 /* 		.t-descr{
     text-align: left;
     font-family: 'Nunito', sans-serif;
@@ -338,7 +368,7 @@
     padding-left: 72px !important;
 }
 .t-prefix_1 {
-    padding-left: 6px !important;
+    padding-left: 33px !important;
     text-align: center !important;
 }
 
@@ -383,8 +413,11 @@
 	margin-left: 58px !important;
 }
 
-#village_map{
-	width: 280px !important;
+#village_map {
+
+    width: 350px !important;
+    margin-left: 10px;
+
 }
 
  }
@@ -422,9 +455,7 @@
     padding-right: 53px !important;
 }
 
-.t-prefix_1 {
-    padding-right: 52px !important;
-}
+
 /* 		.t-descr{
     text-align: left;
     font-family: 'Nunito', sans-serif;
@@ -442,7 +473,7 @@
     padding-left: 72px !important;
 }
 .t-prefix_1 {
-    padding-left: 6px !important;
+    padding-left: 33px !important;
     text-align: center !important;
 }
 
@@ -492,3 +523,4 @@
 }
 
  }
+
